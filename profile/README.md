@@ -1,5 +1,5 @@
 
-
+![image](https://github.com/sharehouse-app/.github/assets/21688404/1c15676c-f2ce-47e1-9f48-06b3e1cbbb2b)
 
 # [Sharehouse](https://sharehouse.app/)
 
